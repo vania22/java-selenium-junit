@@ -13,6 +13,6 @@ public class FirstTest extends BaseTest {
     public void firstTest() {
         HomePage homePage = new HomePage(driver);
         homePage.navigate();
-        homePage.waitForChangedArgument();
+        // homePage.waitForChangedArgument();
     }
 }

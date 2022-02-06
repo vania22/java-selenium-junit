@@ -1,4 +1,4 @@
-package testproject.utils;
+package testproject.managers;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.InvalidArgumentException;
